@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213138"],{aaac:function(n,a,c){"use strict";c.r(a);var e=c("f6c6");a["default"]=e["a"].route({app:"customer",base:window.CONST.WEBAPP_BASE,routes:[{path:"/app/chat",name:"customer-chat",component:function(){return Promise.all([c.e("chunk-2d225814"),c.e("chunk-d513c6ba")]).then(c.bind(null,"510c"))}}]})}}]);
