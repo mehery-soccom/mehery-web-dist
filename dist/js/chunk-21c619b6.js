@@ -1,4 +1,4 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-ec097bcc"],{"7da8":function(t,e,i){},"941e":function(t,e,i){"use strict";var n=function(){var t=this,e=t.$createElement,i=t._self._c||e;return i("div",{staticClass:"content"},[i("FadeTransition",{attrs:{duration:200,mode:"out-in"}},[i("router-view")],1)],1)},r=[],l=i("7c76"),o={components:{FadeTransition:l["b"]}},s=o,a=i("2877"),c=Object(a["a"])(s,n,r,!1,null,null,null);e["a"]=c.exports},b7f5:function(t,e,i){"use strict";
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-21c619b6"],{"7da8":function(t,e,i){},b7f5:function(t,e,i){"use strict";
 /*!
  * perfect-scrollbar v1.5.2
  * Copyright 2021 Hyunje Jun, MDBootstrap and Contributors
